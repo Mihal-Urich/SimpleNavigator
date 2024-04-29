@@ -19,9 +19,9 @@
 </br>_Ввод файла и вывод его матрицы смежности_</br></br>
 ![Альтернативный текст](pics/Menu.png)
 </br>_Главное меню_</br></br>
-![Альтернативный текст]("pics/Wide crawl.png")
+![Альтернативный текст](pics/Wide%20crawl.png)
 </br>_Обход в ширину_</br></br>
-![Альтернативный текст]("pics/Finding the shortest paths between all pairs of vertices.png")
+![Альтернативный текст](pics/Finding%20the%20shortest%20paths%20between%20all%20pairs%20of%20vertices.png)
 </br>_Пары путей между вершинами_</br></br>
-![Альтернативный текст]("pics/Finding the minimum spanning tree.png")
+![Альтернативный текст](pics/Finding%20the%20minimum%20spanning%20tree.png)
 </br>_Минимальное остовное дерево_</br></br>
